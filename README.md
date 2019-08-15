@@ -1,2 +1,3 @@
 # Nullable Byte Array Conversion
-Please, refer to develop branch for working code.
+
+Conversion from nullable byte array to non nullable byte array and viceversa in C#
